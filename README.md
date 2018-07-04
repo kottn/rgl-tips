@@ -1,2 +1,2 @@
 # rgl-tips
-some tips for rgl in R
+some tips of rgl package in R
